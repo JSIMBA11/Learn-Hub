@@ -44,3 +44,5 @@ Mark the entire course as completed to trigger a celebration toast.
 Add more courses or lessons by updating the JavaScript data array.
 Adjust colors and styles in the CSS file to match your branding.
 Enhance functionality by integrating video content or quizzes.
+
+Project URL https://quest-dash-build.lovable.app/
