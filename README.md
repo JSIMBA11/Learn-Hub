@@ -1,73 +1,46 @@
-# Welcome Learn Hub
+📘 LearnHub - E-Learning Platform
+📝 Overview
+LearnHub is a clean, modern e-learning platform prototype built using HTML, CSS, and JavaScript. It offers a simple yet professional interface for learners to browse courses, track progress, and mark lessons as completed.
 
-## Project info
+🚀 Features
 
-**URL**: [https://lovable.dev/projects/7032af10-a149-4d14-a0b9-dd13867f0062](https://quest-dash-build.lovable.app/)
+Course listing page with beautiful cards and hover effects
+Individual course detail pages with lesson breakdown
+Progress tracking per course with visual progress bars
+Mark lessons and entire courses as completed
+Completion tracking persisted using localStorage
+Responsive design with smooth animations and transitions
+Professional blue/purple color scheme for an educational theme
 
-## How can I edit this code?
 
-There are several ways of editing your application.
+🎨 Design Approach
 
-**Use Lovable**
+Card-based layout for course listings
+Clean typography and spacing for readability
+Hover effects for interactive buttons
+Progress bars for visual feedback
+Semantic design tokens for consistent styling
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/7032af10-a149-4d14-a0b9-dd13867f0062) and start prompting.
 
-Changes made via Lovable will be committed automatically to this repo.
+🛠️ Technology Stack
 
-**Use your preferred IDE**
+HTML for structure
+CSS for styling and responsive design
+JavaScript for interactivity and progress tracking
+localStorage for persistent progress data
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+📂 Usage Instructions
 
-Follow these steps:
+Open index.html in a browser to view the homepage with course listings.
+Click on a course card to navigate to the course detail page.
+View lessons and click "Mark as Completed" to track progress.
+Progress is saved in localStorage and persists across sessions.
+Mark the entire course as completed to trigger a celebration toast.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+🛠️ Customization
 
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/7032af10-a149-4d14-a0b9-dd13867f0062) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Add more courses or lessons by updating the JavaScript data array.
+Adjust colors and styles in the CSS file to match your branding.
+Enhance functionality by integrating video content or quizzes.
