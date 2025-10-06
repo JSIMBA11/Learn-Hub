@@ -1,8 +1,8 @@
-# Welcome to your Lovable project
+# Welcome Learn Hub
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/7032af10-a149-4d14-a0b9-dd13867f0062
+**URL**: [https://lovable.dev/projects/7032af10-a149-4d14-a0b9-dd13867f0062](https://quest-dash-build.lovable.app/)
 
 ## How can I edit this code?
 
